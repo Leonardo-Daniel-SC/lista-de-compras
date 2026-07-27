@@ -1,7 +1,7 @@
 
 # Lista de compras
 
-Aplicação web de lista de compras para o curso de construção de páginas dinâmicas com JavaScript.
+Aplicação web de lista de compras focada em manipulações com JavaScript.
 
 ## 🔨 Funcionalidades do projeto
 
