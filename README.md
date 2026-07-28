@@ -5,12 +5,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 <p align="center">
-  <img src="./img/lista-compras-1.png" width="800">
+  <img src="./img/lista-de-compras(1).png" width="800">
 </p>
 
 <p align="center">
-  <img src="./img/lista-compras-2.png" width="390">
-  <img src="./img/lista-compras-3.png" width="390">
+  <img src="./img/lista-de-compras(2).png" width="390">
+  <img src="./img/lista-de-compras(3).png" width="390">
 </p>
 
 ---
