@@ -1,26 +1,124 @@
+# 🛒 Lista de Compras
 
-# Lista de compras
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-Aplicação web de lista de compras focada em manipulações com JavaScript.
+<p align="center">
+  <img src="./img/lista-compras-1.png" width="800">
+</p>
 
-## 🔨 Funcionalidades do projeto
+<p align="center">
+  <img src="./img/lista-compras-2.png" width="390">
+  <img src="./img/lista-compras-3.png" width="390">
+</p>
 
-A aplicação permite inserir itens em uma lista de forma dinâmica, permitindo a exclusão e edição dos mesmos. Os itens terão o nome e também a data e horário que foram criados. Também é possível selecionar um checkbox para informar que o item foi comprado.
+---
 
-## ✔️ Técnicas e tecnologias utilizadas
+## 📌 Links
 
-As técnicas e tecnologias utilizadas pra isso são:
+* **Repositório:** https://github.com/Leonardo-Daniel-SC/lista-de-compras
+* **Projeto Online:** https://leonardo-daniel-sc.github.io/lista-de-compras
 
-- `HTML`: criação dos elementos da tela;
-- `CSS`: estilização da aplicação;
-- `JavaScript`: construção de elementos dinâmicos através da manipulação do DOM.
+---
 
-## 🛠️ Abrir e rodar o projeto
+## 📖 Sobre o projeto
 
-Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, no menu superior, clique em:
+Essa **Lista de Compras** é uma página web desenvolvida com HTML, CSS e JavaScript que permite adicionar, visualizar e gerenciar itens de uma lista de compras de forma simples e intuitiva.
 
-- **File** > **Open Folder** (ou alguma opção similar)
-- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
-- Por fim clique em OK
+O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de desenvolvimento Front-end, especialmente manipulação do DOM, eventos e organização do código em módulos JavaScript.
 
-Ao finalizar esses passos, você pode executar a aplicação com a extensão Live Server 🏆 
+---
+
+## ✨ Funcionalidades
+
+* ➕ Adicionar novos itens à lista.
+* 📝 Exibição dinâmica dos itens cadastrados.
+* ☑️ Marcar itens como concluídos.
+* 📋 Mensagem automática quando a lista estiver vazia.
+* 📱 Interface responsiva e de fácil utilização.
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML5
+* CSS3
+* JavaScript (ES6 Modules)
+
+---
+
+## 📂 Estrutura do projeto
+
+```text
+📁 lista-de-compras
+│
+├── img/
+│   ├── bag.png
+│   ├── lista-compras-1.png
+│   ├── lista-compras-2.png
+│   └── lista-compras-3.png
+│
+├── index.html
+├── styles.css
+├── app.js
+└── README.md
+```
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+```
+
+2. Acesse a pasta do projeto:
+
+```bash
+cd nome-do-repositorio
+```
+
+3. Abra o arquivo **index.html** em seu navegador.
+
+Ou utilize a extensão **Live Server** do Visual Studio Code.
+
+---
+
+## 💡 Como utilizar
+
+1. Digite o nome do item no campo de texto.
+2. Clique em **Salvar item**.
+3. O item será adicionado automaticamente à lista.
+4. Marque o item quando ele for concluído.
+
+---
+
+## 📚 Conceitos praticados
+
+Durante o desenvolvimento foram aplicados conceitos importantes, como:
+
+* Manipulação do DOM
+* Eventos de clique
+* Criação dinâmica de elementos HTML
+* Organização do código em módulos JavaScript
+* Estruturas condicionais
+* Arrays
+* Funções reutilizáveis
+* Boas práticas de organização de código
+
+---
+
+## 🚀 Melhorias futuras
+
+* 💾 Persistência dos dados utilizando Local Storage.
+* ✏️ Editar itens existentes.
+* 🔍 Campo de pesquisa.
+* 📂 Organização por categorias.
+* ⭐ Itens favoritos.
+* 🌙 Tema escuro.
+* 📊 Contador de itens concluídos e pendentes.
+
+---
