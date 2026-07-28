@@ -26,7 +26,9 @@
 
 Essa **Lista de Compras** é uma página web desenvolvida com HTML, CSS e JavaScript que permite adicionar, visualizar e gerenciar itens de uma lista de compras de forma simples e intuitiva.
 
-O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de desenvolvimento Front-end, especialmente manipulação do DOM, eventos e organização do código em módulos JavaScript.
+Cada item cadastrado registra automaticamente a **data e o horário em que foi adicionado**, proporcionando um histórico simples das compras.
+
+O projeto foi desenvolvido focando em praticar conceitos fundamentais de JavaScript, como manipulação do DOM, criação dinâmica de elementos, eventos, módulos ES6 e manipulação de datas utilizando a API `Date`.
 
 ---
 
@@ -34,6 +36,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de 
 
 * ➕ Adicionar novos itens à lista.
 * 📝 Exibição dinâmica dos itens cadastrados.
+* 🕒 Registro automático da data e hora em que cada item foi adicionado.
 * ☑️ Marcar itens como concluídos.
 * 📋 Mensagem automática quando a lista estiver vazia.
 * 📱 Interface responsiva e de fácil utilização.
@@ -104,6 +107,7 @@ Durante o desenvolvimento foram aplicados conceitos importantes, como:
 * Eventos de clique
 * Criação dinâmica de elementos HTML
 * Organização do código em módulos JavaScript
+* Manipulação de datas e horários com a API `Date`
 * Estruturas condicionais
 * Arrays
 * Funções reutilizáveis
